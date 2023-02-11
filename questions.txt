@@ -1,0 +1,9 @@
+What is JDBC?
+How does the JDBC schema work?
+What is the difference between 2 tier architecture and 3 tier architecture?
+What is the best architecture to use in web applications?
+What are the advantages in JDBC?What are the disadvantages in JDBC?
+What is a JDBC driver?
+What is Connection in JDBC?
+What is Statement in JDBC?
+What is the difference between PreparedStatement and regular Statement?
